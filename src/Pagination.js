@@ -127,19 +127,23 @@ const styles = {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
+  
   },
   buttonLeft: {
-    width: 200,
+    width: 0,
     flexShrink: 1,
     alignItems: 'flex-start',
   },
   buttonRight: {
-    width: 200,
+    width: 330,
     flexShrink: 1,
+ 
     alignItems: 'flex-end',
+    
   },
   dots: {
     flexShrink: 0,
+  
   },
 };
 
