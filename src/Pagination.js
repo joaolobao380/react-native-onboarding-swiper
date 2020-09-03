@@ -127,6 +127,7 @@ const styles = {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
+    marginLeft: 20
   
   },
   buttonLeft: {
